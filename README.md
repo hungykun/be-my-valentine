@@ -3,8 +3,7 @@
 ## About This Project
 Made a website to ask my girlfriend to be my valentine hehe :p
 
-(link to view) https://hungykun.github.io/be-my-valentine/
+(Link to View) https://hungykun.github.io/be-my-valentine/
 
 ## Social
-(instagram) https://www.instagram.com/hungykun/
-(youtube) https://www.youtube.com/@hearthands
+<p>(Instagram) https://www.instagram.com/hungykun/ <br> (YouTube) https://www.youtube.com/@hearthands </p>
